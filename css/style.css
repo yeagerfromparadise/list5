@@ -1,0 +1,20 @@
+body{
+    font-size: x-large;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.minecraft {
+    margin-left: 35px;
+}
+
+.roblox {
+    margin-left: 20px;
+    list-style: symbols(1);
+}
+
+div {
+    width: 25%;
+}
